@@ -63,5 +63,3 @@ print(my_dict['country'])  # Output: USA
 # In this code, we have demonstrated the basic usage of common data structures in Python, including lists, tuples, sets, and dictionaries. Each data structure has its own characteristics and use cases, and understanding them is essential for efficient programming in Python.  
 
 #good luck with your learning journey in Python data structures!
-
-#git commit -m "Added Data_Structure.py with examples of lists, tuples, sets, and dictionaries"
