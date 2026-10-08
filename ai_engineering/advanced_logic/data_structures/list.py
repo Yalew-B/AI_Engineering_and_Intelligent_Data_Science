@@ -27,7 +27,7 @@ print(my_list)  # Output: [2, 3, 4, 5, 6]
 
 # Slicing a list
 print(my_list[1:4])  # Output: [2, 3, 4]
-#indicing a list
+# Indexing a list
 print(my_list[::2])  # Output: [2, 4, 6]
 
 # Length of a list
