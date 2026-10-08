@@ -1,6 +1,7 @@
 # Lists in Python
 # A list is a collection of items that are ordered and changeable. 
 # Lists are written with square brackets.
+# git commit -m "Added lists.py with examples of list operations and comprehensions"
 my_list = [1, 2, 3, 4, 5]
 print(my_list)
 
