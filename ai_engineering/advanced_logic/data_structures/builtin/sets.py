@@ -49,5 +49,3 @@ print(squared_set)  # Output: {0, 1, 4, 9, 16}
 # Clearing a set
 my_set.clear()
 print(my_set)  # Output: set()
-
-#    

@@ -52,5 +52,3 @@ print(copied_list)  # Output: [2, 3, 4, 5, 6]
 # Clearing a list
 my_list.clear() 
 print(my_list)  # Output: []
-
-# git commit -m "Added list.py with examples of list operations in Python"
